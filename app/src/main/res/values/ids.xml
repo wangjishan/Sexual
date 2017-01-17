@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="toolbar" type="id"></item>
+    <item name="collapsing_toolbar" type="id"></item>
+    <item name="appbar" type="id"></item>
+    <item name="refreshlayout" type="id"></item>
+    <item name="jrecyclerview" type="id"></item>
+    <item name="fab" type="id"></item>
+    <item name="content" type="id"></item>
+    <item name="imageview_photo" type="id"></item>
+    <item name="cardview" type="id"></item>
+    <item name="photo_detail" type="id"></item>
+    <item name="photo_title" type="id"></item>
+    <item name="photo_list" type="id"></item>
+    <item name="loadingview" type="id"></item>
+    <item name="close" type="id"></item>
+    <item name="progressbar_load_footer" type="id"></item>
+    <item name="textview_load_footer" type="id"></item>
+    <item name="view_load_footer" type="id"></item>
+    <item name="place_holder" type="id"></item>
+    <item name="gallery" type="id"></item>
+    <item name="category_menu" type="id"></item>
+    <item name="textview_category" type="id"></item>
+    <item name="subcategory_list" type="id"></item>
+</resources>
